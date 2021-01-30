@@ -1,0 +1,97 @@
+
+
+----------==========----------==========----------==========----------
+
+
+"Eat Your Own Catfood."
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
+2021/01/30
+
+
+BUGFIX
+
+
+NEW_FEATURE
+
+
+	win32/win_txtbox.c
+		color scheme : IME watcher
+			NEW : re-tuned
+
+	All
+		icon buttons
+			NEW : themed
+	Wheel Axl
+		engine
+			NEW : re-tuned
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
+2021/01/20
+
+
+BUGFIX
+
+
+	nmixer
+		Win8.x : border emulation
+			OLD : same color
+			NEW : near color
+			[x] : this will be a color of wallpaper
+	OrangeCat
+		Info View
+			OLD : same color
+			NEW : near color
+			[x] : this will be a color of wallpaper
+
+
+NEW_FEATURE
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
+2021/01/10
+
+
+BUGFIX
+
+
+	OrangeCat
+		Info View : when system theme is changed
+			OLD : misbehave
+			NEW : fixed
+	Wheel Axl
+		readme
+			NEW : typo is fixed
+
+
+NEW_FEATURE
+
+
+	nmixer
+		Win8.x : border emulation
+			OLD : near color
+			NEW : same color
+	OrangeCat
+		Info View : Find : input field : highlight color
+			NEW : same color available
+
+
+----------==========----------==========----------==========----------
+
